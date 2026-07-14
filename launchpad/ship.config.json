@@ -1,6 +1,6 @@
 {
-  "shipName": "Nebula Runner",
+  "shipName": "Fire in the hole",
   "color": "#22d3ee",
-  "shipModel": "fighter",
-  "emblem": "comet"
+  "shipModel": "interceptor",
+  "emblem": "phoenix"
 }
